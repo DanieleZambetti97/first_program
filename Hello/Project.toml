@@ -1,0 +1,4 @@
+name = "Hello"
+uuid = "6ca1c95a-545b-46b6-a616-20744ceb6a20"
+authors = ["Daniele Zambetti <zambettidaniele97@gmail.com>"]
+version = "0.1.0"
